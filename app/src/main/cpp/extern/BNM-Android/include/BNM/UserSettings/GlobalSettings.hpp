@@ -4,25 +4,25 @@ static_assert(false, "ByNameModding requires C++20 and above!");
 
 #pragma once
 
-//#define UNITY_VER 56 // 5.6.4f1
-//#define UNITY_VER 171 // 2017.1.x
-//#define UNITY_VER 172 // 2017.2.x - 2017.4.x
-//#define UNITY_VER 181 // 2018.1.x
-//#define UNITY_VER 182 // 2018.2.x
-//#define UNITY_VER 183 // 2018.3.x - 2018.4.x
-//#define UNITY_VER 191 // 2019.1.x - 2019.2.x
-//#define UNITY_VER 193 // 2019.3.x
-//#define UNITY_VER 194 // 2019.4.x
-//#define UNITY_VER 201 // 2020.1.x
-//#define UNITY_VER 202 // 2020.2.x - 2020.3.19
-//#define UNITY_VER 203 // 2020.3.20 - 2020.3.xx
+#define UNITY_VER 56 // 5.6.4f1
+#define UNITY_VER 171 // 2017.1.x
+#define UNITY_VER 172 // 2017.2.x - 2017.4.x
+#define UNITY_VER 181 // 2018.1.x
+#define UNITY_VER 182 // 2018.2.x
+#define UNITY_VER 183 // 2018.3.x - 2018.4.x
+#define UNITY_VER 191 // 2019.1.x - 2019.2.x
+#define UNITY_VER 193 // 2019.3.x
+#define UNITY_VER 194 // 2019.4.x
+#define UNITY_VER 201 // 2020.1.x
+#define UNITY_VER 202 // 2020.2.x - 2020.3.19
+#define UNITY_VER 203 // 2020.3.20 - 2020.3.xx
 //#define UNITY_VER 211 // 2021.1.x (Need set UNITY_PATCH_VER to 24 if x (2021.1.x) >= 24)
-//#define UNITY_VER 212 // 2021.2.x
-//#define UNITY_VER 213 // 2021.3.x
-//#define UNITY_VER 221 // 2022.1.x
+#define UNITY_VER 212 // 2021.2.x
+#define UNITY_VER 213 // 2021.3.x
+#define UNITY_VER 221 // 2022.1.x
 #define UNITY_VER 222 // 2022.2.x - 2022.3.x
-//#define UNITY_VER 231 // 2023.1.x
-//#define UNITY_VER 232 // 2023.2.x+
+#define UNITY_VER 231 // 2023.1.x
+#define UNITY_VER 232 // 2023.2.x+
 
 #define UNITY_PATCH_VER 32 // Для особых случаев (For special cases)
 
